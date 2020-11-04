@@ -19,7 +19,7 @@ Spartans
 SHS
 7
 Spartans
-9
+SHS
 10
 11
 SHS Spartans
